@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 2, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "576bd3b5f9da2a1dd5ad5a06cd6795c2", "format-version": 4, "code-base-name": "default", "filename": "easycalc/lib/main.dart", "knowledge_revision": 4}

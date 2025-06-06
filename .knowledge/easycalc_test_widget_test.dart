@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 3, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "fa09e4f8c99e8f5c0b4bf29bb22a143b", "format-version": 4, "code-base-name": "default", "filename": "easycalc/test/widget_test.dart", "knowledge_revision": 3}
